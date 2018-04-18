@@ -1,0 +1,5 @@
+<Project Sdk="Sdk.Project.Prototype">
+    <PropertyGroup>
+        <Name>Chris</Name>
+    </PropertyGroup>
+</Project>
