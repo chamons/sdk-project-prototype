@@ -6,6 +6,7 @@
     <Description>Provides targets for prototypeing sdk stuff.</Description>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <PackageTags>MSBuild MSBuildSdk prototype</PackageTags>
+    <NuspecFile>Sdk.Project.Prototype.nuspec</NuspecFile>
   </PropertyGroup>
 
 </Project>

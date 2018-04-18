@@ -3,16 +3,16 @@
   <metadata>
     <id>sdk-project-prototype</id>
     <version>0.1</version>
-    <description>$description$</description>
+    <description>Prototype</description>
     <authors>chamons</authors>
     <owners>chamosn</owners>
     <copyright></copyright>
-    <projectUrl></projectUrl>
-    <licenseUrl></licenseUrl>
-    <iconUrl></iconUrl>
+    <projectUrl>https://github.com/chamons/sdk-project-prototype</projectUrl>
+    <licenseUrl>https://github.com/chamons/sdk-project-prototype/blob/master/LICENSE</licenseUrl>
+    <iconUrl>https://github.com/chamons/sdk-project-prototype/blob/master/LICENSE</iconUrl>
     <tags></tags>
     <packageTypes>
-      <packageType name="" />
+      <packageType name="MSBuildSdk" />
     </packageTypes>
   </metadata>
   <files>
