@@ -1,4 +1,4 @@
-<Project Sdk="Sdk.Project.Prototype">
+<Project Sdk="sdk-project-prototype/0.1">
     <PropertyGroup>
         <Name>Chris</Name>
     </PropertyGroup>
